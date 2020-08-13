@@ -1,0 +1,24 @@
+{
+  "name": "load_status_changes",
+  "version": "1.0.0",
+  "description": "Consume Status Change JSON to load into Database",
+  "scripts": {
+    "start": "npm run removeTables && npm run removeTypes && npm run createTypes && npm run createTables && npm run loadData status-changes-sample-out.json && npm run showData",
+    "removeTables": "node src/reset/removeTables.js",
+    "removeTypes": "node src/reset/removeTypes.js",
+    "createTypes": "node src/load/createTypes.js",
+    "createTables": "node src/load/createTables.js",
+    "loadData": "node src/load/loadData.js",
+    "showData": "node src/load/showData.js ",
+    "resetdb": "npm run removeTables && npm run removeTypes",
+    "createdb": "npm run createTypes && npm run createTables && npm run loadData && npm run showData"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.3.0"
+  },
+  "devDependencies": {}
+}

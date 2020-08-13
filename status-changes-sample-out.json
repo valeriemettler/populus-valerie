@@ -1,0 +1,2902 @@
+[
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537874044,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537874044
+      }
+    },
+    "battery_pct": 0.36,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537874045,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537874045
+      }
+    },
+    "battery_pct": 0.81,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537874922,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537874922
+      }
+    },
+    "battery_pct": 0.41,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537875274,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537875274
+      }
+    },
+    "battery_pct": 0.84,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537875828,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537875828
+      }
+    },
+    "battery_pct": 0.55,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537876723,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537876723
+      }
+    },
+    "battery_pct": 0.83,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537876724,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537876724
+      }
+    },
+    "battery_pct": 0.36,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537877860,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537877860
+      }
+    },
+    "battery_pct": 0.81,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878124,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878124
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878130,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878130
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878138,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878138
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878146,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878146
+      }
+    },
+    "battery_pct": 0.96,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878157,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878157
+      }
+    },
+    "battery_pct": 0.71,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878332,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878332
+      }
+    },
+    "battery_pct": 0.86,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878350,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878350
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878369,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878369
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878407,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878407
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878416,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878416
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878442,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878442
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878452,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878452
+      }
+    },
+    "battery_pct": 0.89,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878460,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878460
+      }
+    },
+    "battery_pct": 0.86,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878743,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878743
+      }
+    },
+    "battery_pct": 0.96,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878754,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878754
+      }
+    },
+    "battery_pct": 0.82,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878763,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878763
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878772,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878772
+      }
+    },
+    "battery_pct": 0.9,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878784,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878784
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537878991,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537878991
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879001,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879001
+      }
+    },
+    "battery_pct": 0.96,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879027,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879027
+      }
+    },
+    "battery_pct": 0.95,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879035,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879035
+      }
+    },
+    "battery_pct": 0.94,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879047,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879047
+      }
+    },
+    "battery_pct": 0.89,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879057,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879057
+      }
+    },
+    "battery_pct": 0.9,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879077,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879077
+      }
+    },
+    "battery_pct": 0.96,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537879428,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879428
+      }
+    },
+    "battery_pct": 0.69,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879428,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879428
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879439,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879439
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879452,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879452
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879462,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879462
+      }
+    },
+    "battery_pct": 0.91,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879487,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879487
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879546,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879546
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879568,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879568
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879587,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879587
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879639,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879639
+      }
+    },
+    "battery_pct": 0.92,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879710,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879710
+      }
+    },
+    "battery_pct": 0.88,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879979,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879979
+      }
+    },
+    "battery_pct": 0.89,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537879989,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537879989
+      }
+    },
+    "battery_pct": 0.81,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880001,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880001
+      }
+    },
+    "battery_pct": 0.94,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880012,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880012
+      }
+    },
+    "battery_pct": 0.97,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880022,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880022
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880491,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880491
+      }
+    },
+    "battery_pct": 0.97,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880501,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880501
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880513,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880513
+      }
+    },
+    "battery_pct": 0.97,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880524,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880524
+      }
+    },
+    "battery_pct": 0.93,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880538,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880538
+      }
+    },
+    "battery_pct": 0.93,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880549,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880549
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880566,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880566
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880924,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880924
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880935,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880935
+      }
+    },
+    "battery_pct": 0.94,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880946,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880946
+      }
+    },
+    "battery_pct": 0.36,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880957,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880957
+      }
+    },
+    "battery_pct": 0.69,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537880970,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537880970
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537881364,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537881364
+      }
+    },
+    "battery_pct": 0.77,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537883024,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537883024
+      }
+    },
+    "battery_pct": 0.83,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537883216,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537883216
+      }
+    },
+    "battery_pct": 0.02,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537883216,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537883216
+      }
+    },
+    "battery_pct": 0.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537884007,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884007
+      }
+    },
+    "battery_pct": 0.15,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884007,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884007
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884808,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884808
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884950,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884950
+      }
+    },
+    "battery_pct": 0.75,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884951,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884951
+      }
+    },
+    "battery_pct": 0.03,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884957,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884957
+      }
+    },
+    "battery_pct": 0.22,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537884963,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537884963
+      }
+    },
+    "battery_pct": 0.81,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537885626,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537885626
+      }
+    },
+    "battery_pct": 0.09,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537885626,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537885626
+      }
+    },
+    "battery_pct": 0.06,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537885727,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537885727
+      }
+    },
+    "battery_pct": 0.91,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537886124,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537886124
+      }
+    },
+    "battery_pct": 0.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537886124,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537886124
+      }
+    },
+    "battery_pct": 0.98,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537886624,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537886624
+      }
+    },
+    "battery_pct": 0.6,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537886980,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537886980
+      }
+    },
+    "battery_pct": 0.02,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537886980,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537886980
+      }
+    },
+    "battery_pct": 0.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887437,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887437
+      }
+    },
+    "battery_pct": 0.89,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537887525,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887525
+      }
+    },
+    "battery_pct": 0.81,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887529,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887529
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887539,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887539
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887548,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887548
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887557,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887557
+      }
+    },
+    "battery_pct": 0.02,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887565,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887565
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887574,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887574
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887754,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887754
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887763,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887763
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "3017e50a-b5d9-4d50-8869-1dee603e2846",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887772,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887772
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887787,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887787
+      }
+    },
+    "battery_pct": 0.98,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "123",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887799,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887799
+      }
+    },
+    "battery_pct": 0.48,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887824,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887824
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887834,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887834
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "7e256cb4-357e-4d3b-9359-c042be445551",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887857,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887857
+      }
+    },
+    "battery_pct": 1.0,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "789",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887872,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887872
+      }
+    },
+    "battery_pct": 0.98,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "d924d1c1-27de-4295-af53-74b6c40f52e9",
+    "vehicle_id": "1098",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "maintenance_drop_off",
+    "event_time": 1537887886,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537887886
+      }
+    },
+    "battery_pct": 0.48,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "removed",
+    "event_type_reason": "rebalance_pick_up",
+    "event_time": 1537888060,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537888060
+      }
+    },
+    "battery_pct": 0.02,
+    "associated_trips": []
+  },
+  {
+    "provider_id": "1ddeb4a5-6b09-48fe-a6ae-92b7aa62705d",
+    "provider_name": "Popuscoots",
+    "device_id": "b175da44-5eba-4600-8d41-fb3e8bfb5ef8",
+    "vehicle_id": "456",
+    "vehicle_type": "scooter",
+    "propulsion_type": [
+      "human",
+      "electric"
+    ],
+    "event_type": "available",
+    "event_type_reason": "rebalance_drop_off",
+    "event_time": 1537888060,
+    "event_location": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2636808,
+          37.8009514
+        ]
+      },
+      "properties": {
+        "timestamp": 1537888060
+      }
+    },
+    "battery_pct": 0.99,
+    "associated_trips": []
+  }
+]
