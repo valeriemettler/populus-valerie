@@ -1,5 +1,12 @@
 # Load Status Changes
 
+## Dependencies
+```
+Node v14.8.0
+PostgreSQL 11
+nvm v0.35.3
+```
+
 ## Set up
 1. `cp .env-template .env`
 2. Create database and user if needed 
